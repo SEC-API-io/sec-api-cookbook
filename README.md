@@ -5,3 +5,5 @@
   - [Item 5.02 Example Notebook](./notebooks/form-8k/8k-item-5-02-tutorial-website.ipynb)
 - [SEC Litigation Releases](https://sec-api.io/docs/sec-litigation-releases-database-api)
   - [Litigation Release Example Notebook](./notebooks/sec-litigation-releases/sec_litigation_releases.ipynb)
+- [Auditing and Accounting Enforcement Releases](https://sec-api.io/docs/aaer-database-api)
+  - [AAER Example Notebook](./notebooks/sec-aaers/sec-aaers.ipynb)
