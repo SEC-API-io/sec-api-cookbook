@@ -18,6 +18,7 @@
 **Offerings**
 
 - [Form C - Crowdfunding Campaigns](./notebooks//form-c/form-c-tutorial-website.ipynb) | [Docs](https://sec-api.io/docs/form-c-crowdfunding-api)
+- [Form D - Exempt Offerings & Private Placements](./notebooks/form-d/form-d-tutorial-website.ipynb) | [Docs](https://sec-api.io/docs/form-d-xml-json-api)
 
 **Enforcement Actions, Proceedings, AAERs**
 
