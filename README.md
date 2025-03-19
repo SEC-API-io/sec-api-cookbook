@@ -1,5 +1,9 @@
 # Example notebooks for sec-api.io
 
+**Insider Trades**
+
+- [Form 144 - Restricted and Control Securities Sales](notebooks/form-144/form-144.ipynb) | [Docs](https://sec-api.io/docs/form-144-restricted-sales-api)
+
 **Ownership Data APIs**
 
 - [Form 13F - Portfolio Holdings & Cover Pages](./notebooks/form-13f/form-13f-python-example.ipynb) | [Docs](https://sec-api.io/docs/form-13-f-filings-institutional-holdings-api)
