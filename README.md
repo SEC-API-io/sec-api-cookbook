@@ -15,8 +15,9 @@
   - [Non-Reliance Disclosures - Item 4.02 Example Notebook](./notebooks/form-8k/8k-item-4-02-tutorial-website.ipynb) | [Docs](https://sec-api.io/docs/form-8k-data-search-api)
   - [Change of Directors, Board Members and Compensation Plans - Item 5.02 Example Notebook](./notebooks/form-8k/8k-item-5-02-tutorial-website.ipynb) | [Docs](https://sec-api.io/docs/form-8k-data-item5-2-search-api)
 
-**Proxy Voting Records**
+**Investment Companies**
 
+- [Form N-CEN - Proxy Voting Records](./notebooks/form-ncen/form-ncen.ipynb) | [Docs](https://sec-api.io/docs/form-ncen-api-annual-reports-investment-companies)
 - [Form N-PX - Proxy Voting Records](./notebooks/form-npx/form-npx-tutorial-website.ipynb) | [Docs](https://sec-api.io/docs/form-npx-proxy-voting-records-api)
 
 **Offerings**
