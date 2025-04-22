@@ -17,7 +17,7 @@
 
 **Investment Companies**
 
-- [Form N-CEN - Proxy Voting Records](./notebooks/form-ncen/form-ncen.ipynb) | [Docs](https://sec-api.io/docs/form-ncen-api-annual-reports-investment-companies)
+- [Form N-CEN - Annual Reports](./notebooks/form-ncen/form-ncen.ipynb) | [Docs](https://sec-api.io/docs/form-ncen-api-annual-reports-investment-companies)
 - [Form N-PX - Proxy Voting Records](./notebooks/form-npx/form-npx-tutorial-website.ipynb) | [Docs](https://sec-api.io/docs/form-npx-proxy-voting-records-api)
 
 **Offerings**
@@ -25,7 +25,6 @@
 - [Form C - Crowdfunding Campaigns](./notebooks//form-c/form-c-tutorial-website.ipynb) | [Docs](https://sec-api.io/docs/form-c-crowdfunding-api)
 - [Form D - Exempt Offerings & Private Placements](./notebooks/form-d/form-d-tutorial-website.ipynb) | [Docs](https://sec-api.io/docs/form-d-xml-json-api)
 - [Form 1A/1K/1Z - Regulation A Offering Statements](./notebooks/reg-a/reg-a-tutorial-website.ipynb) | [Docs](https://sec-api.io/docs/reg-a-offering-statements-api)
-
 
 **Enforcement Actions, Proceedings, AAERs**
 
