@@ -8,6 +8,10 @@
 
 - [Form 13F - Portfolio Holdings & Cover Pages](./notebooks/form-13f/form-13f-python-example.ipynb) | [Docs](https://sec-api.io/docs/form-13-f-filings-institutional-holdings-api)
 
+**Publicly Traded Companies Datasets**
+
+- [Audit Fees API](./notebooks/audit-fees/audit-fees.ipynb) | [Docs](https://sec-api.io/docs/audit-fees-api)
+
 **Structured Material Event Data from Form 8-K**
 
 - [Form 8K Structured Data API](https://sec-api.io/docs/form-8k-data-search-api)
