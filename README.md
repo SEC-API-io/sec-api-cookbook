@@ -28,19 +28,19 @@ A collection of example notebooks showing how to query, download, extract, and a
 
 ## Investment Advisers — IAs, Firms (SEC & State Registered), Individuals, ERAs
 
-- [Form ADV - Python Examples](./notebooks/form-adv/form-adv-python-example.ipynb) | [Docs](https://sec-api.io/docs/form-adv-api)
+- [Form ADV - Python Examples](./notebooks/form-adv/form-adv-python-example.ipynb) | [Docs](https://sec-api.io/docs/investment-adviser-and-adv-api)
 
 ## Public Companies Datasets
 
 - [Audit Fees API](./notebooks/audit-fees/audit-fees.ipynb) | [Docs](https://sec-api.io/docs/audit-fees-api)
-- [Directors & Board Members API](./notebooks/directors-board-members-api/quick-start.ipynb) | [Docs](https://sec-api.io/docs/directors-board-members-api)
+- [Directors & Board Members API](./notebooks/directors-board-members-api/quick-start.ipynb) | [Docs](https://sec-api.io/docs/directors-and-board-members-data-api)
 - **Executive Compensation API** | [Docs](https://sec-api.io/docs/executive-compensation-api)
   - [Quick Start](./notebooks/executive-compensation-api/quick-start.ipynb)
   - [Ticker Lookup](./notebooks/executive-compensation-api/ticker-lookup.ipynb)
   - [Example](./notebooks/executive-compensation-api/example-2.ipynb)
   - [Export to Excel](./notebooks/executive-compensation-api/export-to-excel.ipynb)
 - [Subsidiary API (Exhibit 21)](./notebooks/subsidiary-api/subsidiary-api-example.ipynb) | [Docs](https://sec-api.io/docs/subsidiary-api)
-- [Float API - Outstanding Shares](./notebooks/float-api/float-api-example.ipynb) | [Docs](https://sec-api.io/docs/float-api)
+- [Float API - Outstanding Shares](./notebooks/float-api/float-api-example.ipynb) | [Docs](https://sec-api.io/docs/outstanding-shares-float-api)
 - [Mapping API - Ticker / CIK / CUSIP](./notebooks/mapping-api/map-ticker-cik-cusip.ipynb) | [Docs](https://sec-api.io/docs/mapping-api)
 
 ## Form 8-K — Structured Material Events
@@ -60,7 +60,7 @@ A collection of example notebooks showing how to query, download, extract, and a
 - [Form C - Crowdfunding Campaigns](./notebooks/form-c/form-c-tutorial-website.ipynb) | [Docs](https://sec-api.io/docs/form-c-crowdfunding-api)
 - [Form D - Exempt Offerings & Private Placements](./notebooks/form-d/form-d-tutorial-website.ipynb) | [Docs](https://sec-api.io/docs/form-d-xml-json-api)
 - [Form 1A / 1K / 1Z - Regulation A Offering Statements](./notebooks/reg-a/reg-a-tutorial-website.ipynb) | [Docs](https://sec-api.io/docs/reg-a-offering-statements-api)
-- **Registration Statements & Prospectuses (S-1, 424B)** | [Docs](https://sec-api.io/docs/registration-statements-prospectuses-api)
+- **Registration Statements & Prospectuses (S-1, 424B)** | [Docs](https://sec-api.io/docs/form-s1-424b4-data-search-api)
   - [Search S-1 & 424B Filings](./notebooks/registration-statements/registration-statements-prospectus.ipynb)
   - [424B4 Prospectuses by Year](./notebooks/registration-statements/424b4-prospectuses-by-year.ipynb)
   - [Top 20 Largest Offerings by Year](./notebooks/registration-statements/top-20-largest-offerings.ipynb)
@@ -71,7 +71,7 @@ A collection of example notebooks showing how to query, download, extract, and a
 - [SEC Litigation Releases](./notebooks/sec-litigation-releases/sec_litigation_releases.ipynb) | [Docs](https://sec-api.io/docs/sec-litigation-releases-database-api)
 - [SEC Administrative Proceedings](./notebooks/sec-administrative-proceedings/sec-administrative-proceedings.ipynb) | [Docs](https://sec-api.io/docs/sec-administrative-proceedings-database-api)
 - [Accounting and Auditing Enforcement Releases (AAERs)](./notebooks/sec-aaers/sec-aaers.ipynb) | [Docs](https://sec-api.io/docs/aaer-database-api)
-- [SEC Comment Letters - Download & Analyze](./notebooks/sec-comment-letters/download-sec-comment-letters.ipynb) | [Docs](https://sec-api.io/docs/sec-comment-letters-api)
+- [SEC Comment Letters - Download & Analyze](./notebooks/sec-comment-letters/download-sec-comment-letters.ipynb) | [Docs](https://sec-api.io/datasets/sec-comment-letters)
 
 ## EDGAR Filing Search & Query
 
