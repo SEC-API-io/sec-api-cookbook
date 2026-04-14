@@ -1,4 +1,6 @@
-# Example notebooks for sec-api.io
+# Examples for SEC & EDGAR Data Analysis
+
+![banner](https://sec-api.io/v2/media/product/gh-repo-banner-card-1500x400.png)
 
 **Insider Trades**
 
