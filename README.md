@@ -2,6 +2,8 @@
 
 ![banner](https://sec-api.io/v2/media/product/gh-repo-banner-card-1500x400.png)
 
+---
+
 A collection of example notebooks showing how to query, download, extract, and analyze SEC EDGAR filings using the [`sec-api`](https://sec-api.io) Python package.
 
 ## Insider Trades
