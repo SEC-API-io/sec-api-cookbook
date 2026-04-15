@@ -8,15 +8,15 @@ A collection of example notebooks showing how to query, download, extract, and a
 
 ## Insider Trades
 
-- [Form 4 - Insider Trading API Example](./notebooks/form-4/insider-trading-api-example.ipynb) | [Docs](https://sec-api.io/docs/insider-ownership-trading-api)
+- [Form 3 / 4 / 5 - Insider Trading Disclosures](./notebooks/form-4/insider-trading-api-example.ipynb) | [Docs](https://sec-api.io/docs/insider-ownership-trading-api)
 - [Form 144 - Restricted and Control Securities Sales](./notebooks/form-144/form-144.ipynb) | [Docs](https://sec-api.io/docs/form-144-restricted-sales-api)
 
 ## Ownership Data APIs
 
 - **Form 13F** | [Docs](https://sec-api.io/docs/form-13-f-filings-institutional-holdings-api)
   - [Portfolio Holdings & Cover Pages Python Example](./notebooks/form-13f/form-13f-python-example.ipynb)
-  - [Tutorial](./notebooks/form-13f/13f-tutorial.ipynb)
-- [Form 13D / 13G - Activist Investor Filings](./notebooks/form-13d-13g/form-13d-13g-api-examples.ipynb) | [Docs](https://sec-api.io/docs/form-13d-13g-search-api)
+  - [Fund Performance Monitoring Tutorial](./notebooks/form-13f/13f-tutorial.ipynb)
+- [Form 13D / 13G - Beneficial Ownership Analysis](./notebooks/form-13d-13g/form-13d-13g-api-examples.ipynb) | [Docs](https://sec-api.io/docs/form-13d-13g-search-api)
 
 ## Investment Companies
 
@@ -39,7 +39,7 @@ A collection of example notebooks showing how to query, download, extract, and a
 - **Executive Compensation API** | [Docs](https://sec-api.io/docs/executive-compensation-api)
   - [Quick Start](./notebooks/executive-compensation-api/quick-start.ipynb)
   - [Ticker Lookup](./notebooks/executive-compensation-api/ticker-lookup.ipynb)
-  - [Example](./notebooks/executive-compensation-api/example-2.ipynb)
+  - [CIK Lookup & Multi-Company Comparison](./notebooks/executive-compensation-api/example-2.ipynb)
   - [Export to Excel](./notebooks/executive-compensation-api/export-to-excel.ipynb)
 - [Subsidiary API (Exhibit 21)](./notebooks/subsidiary-api/subsidiary-api-example.ipynb) | [Docs](https://sec-api.io/docs/subsidiary-api)
 - [Float API - Outstanding Shares](./notebooks/float-api/float-api-example.ipynb) | [Docs](https://sec-api.io/docs/outstanding-shares-float-api)
@@ -81,7 +81,7 @@ A collection of example notebooks showing how to query, download, extract, and a
   - [Quick Start](./notebooks/query-api/quick-start.ipynb)
   - [Lucene Syntax Tutorial](./notebooks/query-api/lucene-syntax-tutorial.ipynb)
   - [Search Filings by Ticker, Form Type, Date](./notebooks/query-api/search-filings-by-ticker-form-type-date.ipynb)
-  - [Locate Filing URLs](./notebooks/query-api/locate-filings-urls.ipynb)
+  - [Bulk-Download Filing URLs Over Extended Period](./notebooks/query-api/locate-filings-urls.ipynb)
 - [Full-Text Search API - Quick Start](./notebooks/full-text-search-api/quick-start.ipynb) | [Docs](https://sec-api.io/docs/full-text-search-api)
 
 ## Filing Download, Extraction & Rendering
@@ -99,7 +99,7 @@ A collection of example notebooks showing how to query, download, extract, and a
   - [Extract 10-K Sections](./notebooks/extractor-api/extract-sections-10-k.ipynb)
   - [Extract 10-Q Sections](./notebooks/extractor-api/extract-sections-10-q.ipynb)
   - [Extract 8-K Sections](./notebooks/extractor-api/extract-sections-8-k.ipynb)
-  - [Download Multiple 10-K Sections](./notebooks/extractor-api/extract-multiple-10-k-sections.ipynb)
+  - [Extract 10-K Sections Across Multiple Years](./notebooks/extractor-api/extract-multiple-10-k-sections.ipynb)
   - [Clean Extracted Sections](./notebooks/extractor-api/clean-extracted-sections.ipynb)
   - [Extract Textual Data from 10-K](./notebooks/extractor-api/extract-textual-data-10-k.ipynb)
 
@@ -108,10 +108,10 @@ A collection of example notebooks showing how to query, download, extract, and a
 - **XBRL-to-JSON API** | [Docs](https://sec-api.io/docs/xbrl-to-json-converter-api)
   - [XBRL with Python](./notebooks/xbrl-to-json-api/xbrl-with-python.ipynb)
   - [Extract Financial Statements](./notebooks/xbrl-to-json-api/extract-financial-statements.ipynb)
-  - [Google Revenue Analysis](./notebooks/xbrl-to-json-api/google-revenue-analysis.ipynb)
+  - [Google Revenue Analysis via XBRL (10-K)](./notebooks/xbrl-to-json-api/google-revenue-analysis.ipynb)
 - **XBRL Source Files**
   - [Download XBRL Files from EDGAR](./notebooks/xbrl-files/download-xbrl-files.ipynb)
-  - [Download XSD URLs](./notebooks/xbrl-files/download-xsd-urls.ipynb)
+  - [Find & Download XSD URLs from 10-K Filings](./notebooks/xbrl-files/download-xsd-urls.ipynb)
 - [SEC EDGAR Form Types Supporting XBRL](./resources/sec-edgar-form-types-supporting-xbrl/sec-edgar-form-types-supporting-xbrl.ipynb)
 
 ## Financial Reports & Bulk Downloads
